@@ -41,23 +41,5 @@ Ce projet a été réalisé dans le cadre d'un apprentissage du Machine Learning
 
 ---
 
-## 🚀 Installation et Utilisation
-
-### 1. Cloner le dépôt
-
-```bash
-git clone https://github.com/MOUAD642207/california-housing-prediction.git
-cd california-housing-prediction
-
-```bash
-streamlit run app.py
-
-🔄 Améliorations Futures
-□ Déploiement sur Streamlit Cloud ou Heroku
-□ Ajout de graphiques interactifs (distribution du prix, carte géographique)
-□ Historique des prédictions sauvegardé
-□ Ajout d'autres modèles (LightGBM, Random Forest)
-□ API REST avec FastAPI ou Flask
-□ Interface utilisateur multilingue
 
 
