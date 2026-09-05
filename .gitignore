@@ -1,0 +1,26 @@
+# Fichiers Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Notebooks
+.ipynb_checkpoints/
+Untitled.ipynb
+
+# Données (le dataset brut)
+*.csv
+*.data
+
+# Environnements
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
